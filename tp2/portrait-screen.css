@@ -1,0 +1,6 @@
+@media(orientation: portrait){
+    .imagem-aleatoria{
+      width: 100vw;
+       height: auto;
+    }
+  }
